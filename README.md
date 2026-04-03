@@ -19,4 +19,4 @@ A simple and responsive website built using **HTML** and **CSS** with **Flexbox*
 
 ---
  🚀 Live Demo
-Check it out here: [The UX Review](https://nournashaat-dev.github.io/The-UX-Review/)
+Check it out here: [The UX Review](https://nournashaat-dev.github.io/The--UX-Review/#rebellion)
